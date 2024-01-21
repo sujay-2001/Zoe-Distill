@@ -52,8 +52,8 @@ The following Table shows the parameters comparison of our model with other SOTA
 The datasets used in the experiments and the details are as lised in the Table.
 
 | Dataset           | Domain  | Type  | Seen in Training? | Train Samples | Eval Samples | Eval Depth (m)     |
-|-------------------|---------|-------|-------------------|---------------|--------------|--------------------|
 |                   |         |       |                   |               |              | Min  | Max          |
+|-------------------|---------|-------|-------------------|---------------|--------------|--------------------|
 | NYU V2[3]         | Indoor  | Real  | Yes               | 1158          | 291          | 1e-3 | 10           |
 | iBims-1[4]        | Indoor  | Real  | Yes               | -             | 100          | 1e-3 | 10           |
 
