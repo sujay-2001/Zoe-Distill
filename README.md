@@ -1,6 +1,7 @@
 # Zoe-Distill
 
 ## About model:
+![Model Archiecture](model.png)
 
 The model architecture integrates ZoeDepth’s[1] cutting-edge design with an augmented depth-to-segmentation network,
 facilitating the transformation of predicted relative depth into segmentation. This innovation fosters a symbiotic relationship
@@ -17,3 +18,4 @@ Notably, this augmentation doesn’t impact inference time as the segmentation c
 The visualisation of overall model architecture is shown in Fig 1. The total number of parameters of the model is 105.3M.
 Subsequent sections will delve into an in-depth exploration of each core component, elucidating their roles and functionalities
 within the model framework.
+
