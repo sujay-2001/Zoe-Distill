@@ -76,10 +76,10 @@ The datasets used in the experiments and the details are as lised in the Table.
 
 ## Plots:
 ### NYU-V2-
-![NYU-V2_Plots][nyu.png]
+![NYU-V2_Plots](nyu.png)
 
 ### iBims-1-
-![iBims-1_Plots][ibims.png]
+![iBims-1_Plots](ibims.png)
 
 ## References:
 [1] S. F. Bhat, R. Birkl, D. Wofk, P. Wonka, and M. M{\"u}ller, *ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth*, ArXiv preprint, [arXiv:2302.12288](https://arxiv.org/abs/2302.12288), 2023.
